@@ -1,0 +1,14 @@
+{
+    "name" : "Python Palooza",
+    "window_size" : [1200, 800],
+    "resolution" : [1200, 800],
+    "full_screen" : false,
+    "resizable" : false,
+    "bg_color" : [0.2, 0.3, 0.3],
+    "target_fps" : 80,
+    
+    "gravity" : 9.81,
+    "gravity_enabled" :  true,
+    "physics_type" : null
+
+}

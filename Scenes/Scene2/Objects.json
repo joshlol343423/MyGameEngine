@@ -1,0 +1,41 @@
+{
+    "Objects": [
+        {
+            "ID": 0,
+            "Name": "Object",
+            "Tag": "",
+            "Position": {
+                "x": -0.010259999999999575,
+                "y": -0.029999999999999902
+            },
+            "Size": {
+                "w": 1.0,
+                "h": 1.0
+            },
+            "RectSize": {
+                "w": 1.0,
+                "h": 1.0
+            },
+            "Rotation": 0.0,
+            "ZValue": 0,
+            "Texture": [
+                "Default.png",
+                "Default.png"
+            ],
+            "Transparency": 255,
+            "Anchored": false,
+            "CanCollide": false,
+            "Static": false,
+            "TextureFlip": [
+                "None",
+                "None"
+            ],
+            "Animations": [
+                [
+                    "None",
+                    "None"
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "Objects": [
+        {
+            "ID": 1,
+            "Name": "Dirt",
+            "Tag": "Ground",
+            "Position": {
+                "x": 0.7746100000000001,
+                "y": -8.64405
+            },
+            "Size": {
+                "w": 2.500000000000001,
+                "h": 1.9000000000000006
+            },
+            "RectSize": {
+                "w": 2.500000000000001,
+                "h": 1.9000000000000006
+            },
+            "Rotation": 0.0,
+            "ZValue": 0,
+            "Texture": "Dirt.png",
+            "Transparency": 255,
+            "Anchored": true,
+            "CanCollide": true,
+            "Static": false,
+            "TextureFlip": false,
+            "Animations": []
+        },
+        {
+            "ID": 2,
+            "Name": "Player",
+            "Tag": "Player",
+            "Position": {
+                "x": 0.5887199999999999,
+                "y": 12.77154
+            },
+            "Size": {
+                "w": 1.0,
+                "h": 1.0
+            },
+            "RectSize": {
+                "w": 1.0,
+                "h": 1.0
+            },
+            "Rotation": 0.0,
+            "ZValue": 0,
+            "Texture": "Player.png",
+            "Transparency": 255,
+            "Anchored": false,
+            "CanCollide": true,
+            "Static": false,
+            "TextureFlip": [
+                "None",
+                "None"
+            ],
+            "Animations": [
+                [
+                    "None",
+                    "None"
+                ]
+            ]
+        }
+    ]
+}
